@@ -4,6 +4,7 @@ __pycache__/
 .env*
 !.env.example
 node_modules/
+.vercel/
 data/raw_downloads/
 data/private/
 site/assets/private/

@@ -37,7 +37,7 @@
       "title": "Mapa: Áreas afectadas por incendios 2024",
       "publisher": "IDECOR",
       "url": "https://www.idecor.gob.ar/mapas/mapa-areas-afectadas-por-incendios-2024/",
-      "use": "Consulta externa de polígonos oficiales y fechas; no se descargaron ni reprocesaron"
+      "use": "Consulta de los polígonos oficiales; se exportaron KML de El Durazno y Capilla del Monte, se verificaron sitio, fecha y superficie y se convirtieron a MultiPolygon WGS84 para el cruce con FIRMS; originales fuera del repositorio"
     },
     {
       "id": "nasa_firms",
@@ -45,7 +45,7 @@
       "publisher": "NASA LANCE / FIRMS",
       "url": "https://firms.modaps.eosdis.nasa.gov/download/",
       "imagery_url": "https://firms.modaps.eosdis.nasa.gov/content/satellite-imagery/",
-      "use": "Pipeline opcional para fechas de septiembre de 2024: VIIRS_NOAA20_SP, recorte exploratorio -66.0,-35.2,-61.5,-29.2, cruce estricto con polígonos IDECOR y fechas locales. Ningún CSV real incluido aún",
+      "use": "VIIRS_NOAA20_SP, 6.697 filas obtenidas para ventanas UTC 02–07/09 y 19–24/09/2024 en el rectángulo exploratorio -66.0,-35.2,-61.5,-29.2; cruce con polígonos IDECOR y fechas locales 02–06/09 y 19–23/09. Se publican 256 coincidencias El Durazno y 1.099 Capilla del Monte, sin incluir el CSV original",
       "access": "La API de área usa MAP_KEY suministrada por el usuario mediante variable de entorno; no se almacena en el repositorio",
       "measurement": "Anomalías térmicas o puntos de detección, no incendios confirmados ni hectáreas quemadas"
     },
