@@ -25,7 +25,8 @@
 
     <section id="argentina" class="section section-cream">
       <div class="wrap">
-        <div class="section-head"><span class="kicker">01 / Argentina</span><div><h2>Siete años de reportes.<br>Una cobertura desigual.</h2><p>El anuario nacional publica una serie de totales de 2018 a 2024. La variación puede reflejar tanto los incendios como qué jurisdicciones informaron cada año; por eso no la presentamos como una tendencia nacional de cobertura constante.</p></div></div>
+        <div class="chapter-label"><span>01</span><span>Panorama nacional<br><b>ARGENTINA · 2018–2024</b></span></div>
+        <div class="section-head"><span class="kicker">01 / Argentina · escala nacional</span><div><h2>Siete años de reportes.<br>Una cobertura desigual.</h2><p>El anuario nacional publica una serie de totales de 2018 a 2024. La variación puede reflejar tanto los incendios como qué jurisdicciones informaron cada año; por eso no la presentamos como una tendencia nacional de cobertura constante.</p></div></div>
         <div class="panel chart-panel">
           <div class="panel-top"><div><p class="small-label">Serie publicada · total informado</p><h3 id="annual-title">Superficie afectada por año</h3></div><div class="segmented" role="group" aria-label="Medida de la serie anual"><button class="active" type="button" data-annual="affected_ha" aria-pressed="true">Hectáreas</button><button type="button" data-annual="reported_fires" aria-pressed="false">Incendios</button></div></div>
           <div id="annual-chart" class="bar-chart" role="img" aria-label="Gráfico de barras de la serie anual"></div>
@@ -37,8 +38,22 @@
       </div>
     </section>
 
+    <section class="scale-transition" aria-labelledby="scale-title">
+      <div class="wrap scale-inner">
+        <div class="scale-copy">
+          <span class="scale-eyebrow"><span class="scale-dot" aria-hidden="true"></span> Cambio de escala / 02</span>
+          <h2 id="scale-title">De Argentina<br><em>a Córdoba.</em></h2>
+          <p>Hasta acá vimos el panorama del país. Ahora nos acercamos a una sola provincia y a un solo año: <strong>Córdoba, 2024.</strong></p>
+          <a class="scale-link" href="#cordoba">Explorar Córdoba 2024 <span aria-hidden="true">↘</span></a>
+        </div>
+        <div class="scale-art" aria-hidden="true"><div class="scale-orbit"><span>CBA</span><small>2024</small></div></div>
+        <div class="scale-context"><div><span>Antes / 01</span><strong>Argentina</strong><small>Anuario nacional · 2018–2024</small></div><span class="scale-arrow" aria-hidden="true">→</span><div><span>Ahora / 02</span><strong>Córdoba</strong><small>Informe provincial · 2024</small></div></div>
+      </div>
+    </section>
+
     <section id="cordoba" class="section wrap">
-      <div class="section-head"><span class="kicker">02 / Córdoba · 2024</span><div><h2>Un septiembre que concentró<br>la superficie afectada.</h2><p>El mapeo provincial de IDECOR permite mirar mes a mes. Sus cifras tienen otra delimitación y metodología que las del anuario nacional: las mantenemos separadas.</p></div></div>
+      <div class="chapter-label chapter-label-cordoba"><span>02</span><span>Foco provincial<br><b>CÓRDOBA · SOLO 2024</b></span></div>
+      <div class="section-head"><span class="kicker">02 / Córdoba · informe provincial</span><div><h2>Un septiembre que concentró<br>la superficie afectada.</h2><p><strong>De aquí en adelante, los datos son de Córdoba.</strong> El mapeo provincial de IDECOR permite mirar mes a mes. Sus cifras tienen otra delimitación y metodología que las del anuario nacional: las mantenemos separadas.</p></div></div>
       <div class="cordoba-callout"><div><div class="small-label">Informe provincial · año 2024</div><strong>103.327 <span>ha</span></strong><p>en 586 eventos registrados</p></div><div class="callout-line"></div><div><div class="small-label">Solo septiembre</div><strong>78.298 <span>ha</span></strong><p>177 eventos · 75,8 % de las hectáreas del año</p></div></div>
       <div class="panel chart-panel"><div class="panel-top"><div><p class="small-label">Distribución mensual · IDECOR</p><h3 id="months-title">Hectáreas afectadas por mes</h3></div><div class="segmented" role="group" aria-label="Medida mensual"><button type="button" class="active" data-months="affected_ha" aria-pressed="true">Hectáreas</button><button type="button" data-months="reported_fires" aria-pressed="false">Eventos</button></div></div><div id="months-chart" class="bar-chart months-chart" role="img" aria-label="Gráfico de barras mensuales de Córdoba 2024"></div><p class="figure-note">Tabla 1, p. 19 del informe provincial. Septiembre concentró 75,8 % de la superficie y 30,2 % de los eventos. <a href="data/cordoba_mensual_2024.csv" download>Descargar datos mensuales ↗</a></p></div>
       <div class="insight-grid"><div class="insight"><span class="kicker">Territorio</span><h3>Dos departamentos,<br>dos lecturas.</h3><p>Punilla registra la mayor superficie, con 21.188 ha; San Justo concentra más registros departamentales (97), pero 3.438 ha. Un evento que cruza límites puede contarse en varios departamentos.</p><a href="data/cordoba_departamentos_2024.csv" download>Ver todos los departamentos ↗</a></div><div class="insight insight-warm"><span class="kicker">Comparación de fuentes</span><div class="comparison"><div><b>Anuario nacional</b><strong>582 <small>incendios</small></strong><span>103.325 ha</span></div><div><b>Informe provincial</b><strong>586 <small>eventos</small></strong><span>103.327 ha</span></div></div><p>Diferencia entre series independientes; no es una corrección directa de un valor con el otro.</p></div></div>

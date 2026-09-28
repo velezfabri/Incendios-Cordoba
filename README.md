@@ -1,6 +1,6 @@
 # Incendios en Argentina · Córdoba 2024
 
-Historia de datos sobre incendios reportados en Argentina entre 2018 y 2024, con un análisis de Córdoba en 2024 y un cruce espacial y temporal entre áreas afectadas publicadas por IDECOR y detecciones térmicas de NASA FIRMS. [Sitio estático](site/) listo para publicar desde este repositorio en Vercel.
+Historia de datos sobre incendios reportados en Argentina entre 2018 y 2024, con un análisis de Córdoba en 2024 y un cruce espacial y temporal entre áreas afectadas publicadas por IDECOR y detecciones térmicas de NASA FIRMS. [Ver el sitio publicado](https://incendios-cordoba.vercel.app/) · [Código del sitio](site/). Una pausa visual entre los capítulos «Argentina» y «Córdoba» marca el cambio de escala y de fuente estadística.
 
 ## Hallazgos
 
