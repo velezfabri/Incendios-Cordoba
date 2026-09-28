@@ -1,0 +1,1765 @@
+{
+  "metadata": {
+    "snapshot": "2026-09-28",
+    "year_scope": "2018–2024: total nacional reportado; jurisdicciones auditadas solo 2024",
+    "national_source": "Anuario de Estadística Forestal, edición 2025, capítulo 4",
+    "cordoba_source": "DirGR e IDECOR, Informe Anual 2024, febrero 2025",
+    "national_coverage_2024": "19 provincias/CABA informaron; 5 sin información; Parques Nacionales separado",
+    "national_rounding_ha": 1,
+    "cordoba_report_pdf_typo": "Resumen: 103.237 ha; tablas y cuerpo: 103.327 ha"
+  },
+  "nationalYears": [
+    {
+      "year": 2018,
+      "reported_fires": 9136,
+      "affected_ha": 1037806,
+      "source_page": 117
+    },
+    {
+      "year": 2019,
+      "reported_fires": 6479,
+      "affected_ha": 688282,
+      "source_page": 117
+    },
+    {
+      "year": 2020,
+      "reported_fires": 10527,
+      "affected_ha": 1206738,
+      "source_page": 117
+    },
+    {
+      "year": 2021,
+      "reported_fires": 6251,
+      "affected_ha": 746826,
+      "source_page": 117
+    },
+    {
+      "year": 2022,
+      "reported_fires": 7133,
+      "affected_ha": 1401045,
+      "source_page": 117
+    },
+    {
+      "year": 2023,
+      "reported_fires": 4162,
+      "affected_ha": 549504,
+      "source_page": 117
+    },
+    {
+      "year": 2024,
+      "reported_fires": 5175,
+      "affected_ha": 392277,
+      "source_page": 116
+    }
+  ],
+  "jurisdictions2024": [
+    {
+      "jurisdiction": "Buenos Aires",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null,
+      "native_forest_ha": null,
+      "cultivated_forest_ha": null,
+      "shrubland_ha": null,
+      "grassland_ha": null,
+      "undetermined_ha": null
+    },
+    {
+      "jurisdiction": "Catamarca",
+      "status": "reportado",
+      "reported_fires": 201,
+      "affected_ha": 6835,
+      "native_forest_ha": 53,
+      "cultivated_forest_ha": 55,
+      "shrubland_ha": 1678,
+      "grassland_ha": 5049,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Chaco",
+      "status": "reportado",
+      "reported_fires": 516,
+      "affected_ha": 54278,
+      "native_forest_ha": 3743,
+      "cultivated_forest_ha": 2410,
+      "shrubland_ha": 10552,
+      "grassland_ha": 37573,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Chubut",
+      "status": "reportado",
+      "reported_fires": 89,
+      "affected_ha": 5460,
+      "native_forest_ha": 3130,
+      "cultivated_forest_ha": 220,
+      "shrubland_ha": 1155,
+      "grassland_ha": 955,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null,
+      "native_forest_ha": null,
+      "cultivated_forest_ha": null,
+      "shrubland_ha": null,
+      "grassland_ha": null,
+      "undetermined_ha": null
+    },
+    {
+      "jurisdiction": "Córdoba",
+      "status": "reportado",
+      "reported_fires": 582,
+      "affected_ha": 103325,
+      "native_forest_ha": 14750,
+      "cultivated_forest_ha": 4481,
+      "shrubland_ha": 23715,
+      "grassland_ha": 60379,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Corrientes",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null,
+      "native_forest_ha": null,
+      "cultivated_forest_ha": null,
+      "shrubland_ha": null,
+      "grassland_ha": null,
+      "undetermined_ha": null
+    },
+    {
+      "jurisdiction": "Entre Ríos",
+      "status": "reportado",
+      "reported_fires": 75,
+      "affected_ha": 21869,
+      "native_forest_ha": 2520,
+      "cultivated_forest_ha": 295,
+      "shrubland_ha": 550,
+      "grassland_ha": 18504,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Formosa",
+      "status": "reportado",
+      "reported_fires": 1028,
+      "affected_ha": 7415,
+      "native_forest_ha": 2079,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 1,
+      "grassland_ha": 5335,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Jujuy",
+      "status": "reportado",
+      "reported_fires": 436,
+      "affected_ha": 1327,
+      "native_forest_ha": 261,
+      "cultivated_forest_ha": 23,
+      "shrubland_ha": 162,
+      "grassland_ha": 881,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "La Pampa",
+      "status": "reportado",
+      "reported_fires": 103,
+      "affected_ha": 48281,
+      "native_forest_ha": 23957,
+      "cultivated_forest_ha": 131,
+      "shrubland_ha": 14521,
+      "grassland_ha": 9672,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "La Rioja",
+      "status": "reportado",
+      "reported_fires": 1,
+      "affected_ha": 150,
+      "native_forest_ha": 0,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 0,
+      "grassland_ha": 0,
+      "undetermined_ha": 150
+    },
+    {
+      "jurisdiction": "Mendoza",
+      "status": "reportado",
+      "reported_fires": 82,
+      "affected_ha": 11491,
+      "native_forest_ha": 443,
+      "cultivated_forest_ha": 140,
+      "shrubland_ha": 1123,
+      "grassland_ha": 9785,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Misiones",
+      "status": "reportado",
+      "reported_fires": 26,
+      "affected_ha": 291,
+      "native_forest_ha": 0,
+      "cultivated_forest_ha": 20,
+      "shrubland_ha": 0,
+      "grassland_ha": 271,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Neuquén",
+      "status": "reportado",
+      "reported_fires": 6,
+      "affected_ha": 64,
+      "native_forest_ha": 0,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 30,
+      "grassland_ha": 30,
+      "undetermined_ha": 4
+    },
+    {
+      "jurisdiction": "Río Negro",
+      "status": "reportado",
+      "reported_fires": 571,
+      "affected_ha": 5362,
+      "native_forest_ha": 2389,
+      "cultivated_forest_ha": 58,
+      "shrubland_ha": 995,
+      "grassland_ha": 1867,
+      "undetermined_ha": 54
+    },
+    {
+      "jurisdiction": "Salta",
+      "status": "reportado",
+      "reported_fires": 527,
+      "affected_ha": 21661,
+      "native_forest_ha": 45,
+      "cultivated_forest_ha": 42,
+      "shrubland_ha": 745,
+      "grassland_ha": 20828,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "San Juan",
+      "status": "reportado",
+      "reported_fires": 485,
+      "affected_ha": 581,
+      "native_forest_ha": 270,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 29,
+      "grassland_ha": 283,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "San Luis",
+      "status": "reportado",
+      "reported_fires": 60,
+      "affected_ha": 59845,
+      "native_forest_ha": 51960,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 0,
+      "grassland_ha": 7885,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Santa Cruz",
+      "status": "reportado",
+      "reported_fires": 4,
+      "affected_ha": 1,
+      "native_forest_ha": 0,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 1,
+      "grassland_ha": 0,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Santa Fe",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null,
+      "native_forest_ha": null,
+      "cultivated_forest_ha": null,
+      "shrubland_ha": null,
+      "grassland_ha": null,
+      "undetermined_ha": null
+    },
+    {
+      "jurisdiction": "Santiago del Estero",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null,
+      "native_forest_ha": null,
+      "cultivated_forest_ha": null,
+      "shrubland_ha": null,
+      "grassland_ha": null,
+      "undetermined_ha": null
+    },
+    {
+      "jurisdiction": "Tierra del Fuego",
+      "status": "reportado",
+      "reported_fires": 2,
+      "affected_ha": 1,
+      "native_forest_ha": 1,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 0,
+      "grassland_ha": 0,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Tucumán",
+      "status": "reportado",
+      "reported_fires": 277,
+      "affected_ha": 3255,
+      "native_forest_ha": 1,
+      "cultivated_forest_ha": 20,
+      "shrubland_ha": 121,
+      "grassland_ha": 3114,
+      "undetermined_ha": 0
+    },
+    {
+      "jurisdiction": "Parques Nacionales",
+      "status": "reportado",
+      "reported_fires": 104,
+      "affected_ha": 40784,
+      "native_forest_ha": 7250,
+      "cultivated_forest_ha": 0,
+      "shrubland_ha": 2275,
+      "grassland_ha": 27309,
+      "undetermined_ha": 3950
+    }
+  ],
+  "cordobaMonths": [
+    {
+      "month": 1,
+      "month_name": "Enero",
+      "reported_fires": 10,
+      "affected_ha": 812
+    },
+    {
+      "month": 2,
+      "month_name": "Febrero",
+      "reported_fires": 4,
+      "affected_ha": 330
+    },
+    {
+      "month": 3,
+      "month_name": "Marzo",
+      "reported_fires": 10,
+      "affected_ha": 221
+    },
+    {
+      "month": 4,
+      "month_name": "Abril",
+      "reported_fires": 13,
+      "affected_ha": 299
+    },
+    {
+      "month": 5,
+      "month_name": "Mayo",
+      "reported_fires": 21,
+      "affected_ha": 247
+    },
+    {
+      "month": 6,
+      "month_name": "Junio",
+      "reported_fires": 62,
+      "affected_ha": 578
+    },
+    {
+      "month": 7,
+      "month_name": "Julio",
+      "reported_fires": 78,
+      "affected_ha": 9938
+    },
+    {
+      "month": 8,
+      "month_name": "Agosto",
+      "reported_fires": 113,
+      "affected_ha": 5239
+    },
+    {
+      "month": 9,
+      "month_name": "Septiembre",
+      "reported_fires": 177,
+      "affected_ha": 78298
+    },
+    {
+      "month": 10,
+      "month_name": "Octubre",
+      "reported_fires": 58,
+      "affected_ha": 6375
+    },
+    {
+      "month": 11,
+      "month_name": "Noviembre",
+      "reported_fires": 21,
+      "affected_ha": 770
+    },
+    {
+      "month": 12,
+      "month_name": "Diciembre",
+      "reported_fires": 19,
+      "affected_ha": 220
+    }
+  ],
+  "cordobaDepartments": [
+    {
+      "department": "Punilla",
+      "department_fire_records": 13,
+      "affected_ha": 21188
+    },
+    {
+      "department": "Calamuchita",
+      "department_fire_records": 11,
+      "affected_ha": 19719
+    },
+    {
+      "department": "Totoral",
+      "department_fire_records": 12,
+      "affected_ha": 10689
+    },
+    {
+      "department": "Pocho",
+      "department_fire_records": 6,
+      "affected_ha": 6986
+    },
+    {
+      "department": "Río Cuarto",
+      "department_fire_records": 59,
+      "affected_ha": 6675
+    },
+    {
+      "department": "Colón",
+      "department_fire_records": 28,
+      "affected_ha": 6371
+    },
+    {
+      "department": "Ischilín",
+      "department_fire_records": 11,
+      "affected_ha": 6075
+    },
+    {
+      "department": "Santa María",
+      "department_fire_records": 22,
+      "affected_ha": 5274
+    },
+    {
+      "department": "San Justo",
+      "department_fire_records": 97,
+      "affected_ha": 3438
+    },
+    {
+      "department": "General Roca",
+      "department_fire_records": 43,
+      "affected_ha": 2973
+    },
+    {
+      "department": "Presidente Roque Sáenz Peña",
+      "department_fire_records": 37,
+      "affected_ha": 1919
+    },
+    {
+      "department": "Capital",
+      "department_fire_records": 78,
+      "affected_ha": 1818
+    },
+    {
+      "department": "Marcos Juárez",
+      "department_fire_records": 49,
+      "affected_ha": 1771
+    },
+    {
+      "department": "San Alberto",
+      "department_fire_records": 11,
+      "affected_ha": 1728
+    },
+    {
+      "department": "San Javier",
+      "department_fire_records": 4,
+      "affected_ha": 1349
+    },
+    {
+      "department": "Minas",
+      "department_fire_records": 3,
+      "affected_ha": 1346
+    },
+    {
+      "department": "Juárez Celman",
+      "department_fire_records": 17,
+      "affected_ha": 876
+    },
+    {
+      "department": "Tulumba",
+      "department_fire_records": 4,
+      "affected_ha": 714
+    },
+    {
+      "department": "Unión",
+      "department_fire_records": 29,
+      "affected_ha": 512
+    },
+    {
+      "department": "General San Martín",
+      "department_fire_records": 15,
+      "affected_ha": 506
+    },
+    {
+      "department": "Tercero Arriba",
+      "department_fire_records": 14,
+      "affected_ha": 355
+    },
+    {
+      "department": "Río Primero",
+      "department_fire_records": 13,
+      "affected_ha": 317
+    },
+    {
+      "department": "Cruz del Eje",
+      "department_fire_records": 16,
+      "affected_ha": 305
+    },
+    {
+      "department": "Sobremonte",
+      "department_fire_records": 1,
+      "affected_ha": 170
+    },
+    {
+      "department": "Río Segundo",
+      "department_fire_records": 10,
+      "affected_ha": 159
+    },
+    {
+      "department": "Río Seco",
+      "department_fire_records": 3,
+      "affected_ha": 94
+    }
+  ],
+  "coverage": [
+    {
+      "year": 2018,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2018,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2019,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2020,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2021,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2022,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Catamarca",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Chaco",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Chubut",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Córdoba",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Corrientes",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Entre Ríos",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Formosa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Jujuy",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "La Pampa",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "La Rioja",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Mendoza",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Misiones",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Neuquén",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Río Negro",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Salta",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "San Juan",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "San Luis",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Santa Cruz",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Santa Fe",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Santiago del Estero",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Tucumán",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2023,
+      "jurisdiction": "Parques Nacionales",
+      "status": "no_auditado",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Buenos Aires",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Catamarca",
+      "status": "reportado",
+      "reported_fires": 201,
+      "affected_ha": 6835
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Chaco",
+      "status": "reportado",
+      "reported_fires": 516,
+      "affected_ha": 54278
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Chubut",
+      "status": "reportado",
+      "reported_fires": 89,
+      "affected_ha": 5460
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Córdoba",
+      "status": "reportado",
+      "reported_fires": 582,
+      "affected_ha": 103325
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Corrientes",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Entre Ríos",
+      "status": "reportado",
+      "reported_fires": 75,
+      "affected_ha": 21869
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Formosa",
+      "status": "reportado",
+      "reported_fires": 1028,
+      "affected_ha": 7415
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Jujuy",
+      "status": "reportado",
+      "reported_fires": 436,
+      "affected_ha": 1327
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "La Pampa",
+      "status": "reportado",
+      "reported_fires": 103,
+      "affected_ha": 48281
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "La Rioja",
+      "status": "reportado",
+      "reported_fires": 1,
+      "affected_ha": 150
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Mendoza",
+      "status": "reportado",
+      "reported_fires": 82,
+      "affected_ha": 11491
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Misiones",
+      "status": "reportado",
+      "reported_fires": 26,
+      "affected_ha": 291
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Neuquén",
+      "status": "reportado",
+      "reported_fires": 6,
+      "affected_ha": 64
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Río Negro",
+      "status": "reportado",
+      "reported_fires": 571,
+      "affected_ha": 5362
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Salta",
+      "status": "reportado",
+      "reported_fires": 527,
+      "affected_ha": 21661
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "San Juan",
+      "status": "reportado",
+      "reported_fires": 485,
+      "affected_ha": 581
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "San Luis",
+      "status": "reportado",
+      "reported_fires": 60,
+      "affected_ha": 59845
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Santa Cruz",
+      "status": "reportado",
+      "reported_fires": 4,
+      "affected_ha": 1
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Santa Fe",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Santiago del Estero",
+      "status": "sin_informacion",
+      "reported_fires": null,
+      "affected_ha": null
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Tierra del Fuego",
+      "status": "reportado",
+      "reported_fires": 2,
+      "affected_ha": 1
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Tucumán",
+      "status": "reportado",
+      "reported_fires": 277,
+      "affected_ha": 3255
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Parques Nacionales",
+      "status": "reportado",
+      "reported_fires": 104,
+      "affected_ha": 40784
+    }
+  ]
+}

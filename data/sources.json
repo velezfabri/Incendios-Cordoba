@@ -1,0 +1,68 @@
+{
+  "retrieved_utc": "2026-09-28",
+  "sources": [
+    {
+      "id": "national_2024",
+      "title": "Anuario de Estadística Forestal, edición 2025, incendios año 2024",
+      "publisher": "Subsecretaría de Ambiente de la Nación",
+      "url": "https://www.argentina.gob.ar/sites/default/files/anuario_2024_edicion_2025.pdf",
+      "sections": "Capítulo 4, pp. impresas 115–118, tabla 4.2.1 p. 116; figura 35 p. 117",
+      "use": "Totales anuales 2018–2024 del gráfico y jurisdicciones de 2024 de la tabla",
+      "coverage": "Total reportado, 2024: 19 provincias/CABA informaron; 5 s/i; Parques Nacionales es una jurisdicción adicional",
+      "transcription": "manual, sin redondeos inventados; en cuadro de vegetación el redondeo puede impedir cierre exacto"
+    },
+    {
+      "id": "cordoba_2024",
+      "title": "Informe Anual de Áreas Afectadas por Incendios Forestales 2024 en la Provincia de Córdoba",
+      "publisher": "Dirección Gestión de Riesgos e IDECOR, febrero de 2025",
+      "url": "https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m505/informe_anual_de_areas_afectadas_por_incendios_forestales_2024.pdf",
+      "sections": "pp. impresas 10 (área de estudio), 19 (tabla 1 mensual), 20–21 (tabla 2 departamental), 31–34 (eventos e imágenes)",
+      "license": "CC BY 4.0 según p. 3 del informe",
+      "use": "Serie mensual y ranking departamental; no reemplaza la tabla nacional",
+      "quality_note": "El resumen p. 5 consigna 103.237 ha, mientras cuerpo p. 10 y tablas 1–2 consigan 103.327 ha; se utiliza el valor respaldado por tablas y sumas. Conteo departamental de 606 incluye eventos compartidos."
+    },
+    {
+      "id": "conae_2024",
+      "title": "Los incendios forestales en Córdoba vistos desde el espacio",
+      "publisher": "CONAE / Argentina.gob.ar, 10 de septiembre de 2024",
+      "url": "https://www.argentina.gob.ar/noticias/los-incendios-forestales-en-cordoba-vistos-desde-el-espacio",
+      "image_url": "https://www.argentina.gob.ar/sites/default/files/imagen_1_-_el_durazno.png",
+      "image_event": "El Durazno, Córdoba, 3 de septiembre de 2024; producto publicado de áreas afectadas",
+      "image_measure": "10.500 ha al 3/9 según la nota; no confundir con 10.644 ha del evento completo según IDECOR, ni con la provincia",
+      "sensor": "No explicitado en la nota de esta imagen",
+      "image_license": "No especificada en el artículo; imagen enlazada en origen y no incorporada en el paquete"
+    },
+    {
+      "id": "idecor_map",
+      "title": "Mapa: Áreas afectadas por incendios 2024",
+      "publisher": "IDECOR",
+      "url": "https://www.idecor.gob.ar/mapas/mapa-areas-afectadas-por-incendios-2024/",
+      "use": "Consulta externa de polígonos oficiales y fechas; no se descargaron ni reprocesaron"
+    },
+    {
+      "id": "nasa_firms",
+      "title": "NASA FIRMS Archive Download y Satellite Imagery",
+      "publisher": "NASA LANCE / FIRMS",
+      "url": "https://firms.modaps.eosdis.nasa.gov/download/",
+      "imagery_url": "https://firms.modaps.eosdis.nasa.gov/content/satellite-imagery/",
+      "use": "Pipeline opcional para fechas de septiembre de 2024: VIIRS_NOAA20_SP, recorte exploratorio -66.0,-35.2,-61.5,-29.2, cruce estricto con polígonos IDECOR y fechas locales. Ningún CSV real incluido aún",
+      "access": "La API de área usa MAP_KEY suministrada por el usuario mediante variable de entorno; no se almacena en el repositorio",
+      "measurement": "Anomalías térmicas o puntos de detección, no incendios confirmados ni hectáreas quemadas"
+    },
+    {
+      "id": "featured_events_idecor",
+      "title": "Incendios de Capilla del Monte y El Durazno / Villa Yacanto",
+      "publisher": "DirGR e IDECOR, informe anual 2024",
+      "url": "https://obs-idecor-mapas-docs.obs.sa-argentina-1.myhuaweicloud.com/m505/informe_anual_de_areas_afectadas_por_incendios_forestales_2024.pdf",
+      "sections": "p. 31, tabla 7, y pp. 32–34: fechas de inicio 19/09 y 02/09, superficies finales 42.046 y 10.644 ha",
+      "use": "Metadatos documentados de dos eventos para cruce espacial y temporal; cada ventana de cinco días es una selección analítica, no toda la duración del evento"
+    },
+    {
+      "id": "portal_andino",
+      "title": "Incendios forestales: portal Andino",
+      "publisher": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "url": "https://portal-andino.datos.gob.ar/dataset/incendios-forestales",
+      "use": "Auditado para compatibilidad; NO combinado con el anuario: incendios provinciales 2020–2022 y superficies 2020–2021"
+    }
+  ]
+}

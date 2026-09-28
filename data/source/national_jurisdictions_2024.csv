@@ -1,0 +1,26 @@
+jurisdiction,status,reported_fires,affected_ha,native_forest_ha,cultivated_forest_ha,shrubland_ha,grassland_ha,undetermined_ha
+Buenos Aires,sin_informacion,,,,,,,
+Catamarca,reportado,201,6835,53,55,1678,5049,0
+Chaco,reportado,516,54278,3743,2410,10552,37573,0
+Chubut,reportado,89,5460,3130,220,1155,955,0
+Ciudad Autónoma de Buenos Aires,sin_informacion,,,,,,,
+Córdoba,reportado,582,103325,14750,4481,23715,60379,0
+Corrientes,sin_informacion,,,,,,,
+Entre Ríos,reportado,75,21869,2520,295,550,18504,0
+Formosa,reportado,1028,7415,2079,0,1,5335,0
+Jujuy,reportado,436,1327,261,23,162,881,0
+La Pampa,reportado,103,48281,23957,131,14521,9672,0
+La Rioja,reportado,1,150,0,0,0,0,150
+Mendoza,reportado,82,11491,443,140,1123,9785,0
+Misiones,reportado,26,291,0,20,0,271,0
+Neuquén,reportado,6,64,0,0,30,30,4
+Río Negro,reportado,571,5362,2389,58,995,1867,54
+Salta,reportado,527,21661,45,42,745,20828,0
+San Juan,reportado,485,581,270,0,29,283,0
+San Luis,reportado,60,59845,51960,0,0,7885,0
+Santa Cruz,reportado,4,1,0,0,1,0,0
+Santa Fe,sin_informacion,,,,,,,
+Santiago del Estero,sin_informacion,,,,,,,
+Tierra del Fuego,reportado,2,1,1,0,0,0,0
+Tucumán,reportado,277,3255,1,20,121,3114,0
+Parques Nacionales,reportado,104,40784,7250,0,2275,27309,3950
